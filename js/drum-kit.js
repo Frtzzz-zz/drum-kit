@@ -20,46 +20,46 @@ const floorTom = document.querySelector('.floorTom');
 
 // define sfx
 var kickSFX = new Audio();
-kickSFX.src = '/assets/kick.wav';
+kickSFX.src = 'assets/kick.wav';
 
 var snare1SFX = new Audio();
-snare1SFX.src = '/assets/snare1.wav';
+snare1SFX.src = 'assets/snare1.wav';
 
 var snare2SFX = new Audio();
-snare2SFX.src = '/assets/snare1.wav';
+snare2SFX.src = 'assets/snare1.wav';
 
 var hiHatSFX = new Audio();
-hiHatSFX.src = '/assets/hi-hat.wav';
+hiHatSFX.src = 'assets/hi-hat.wav';
 
 var openHiHatSFX = new Audio();
-openHiHatSFX.src = '/assets/open-hi-hat.wav';
+openHiHatSFX.src = 'assets/open-hi-hat.wav';
 
 var snareRollSFX = new Audio();
-snareRollSFX.src = '/assets/roll.wav';
+snareRollSFX.src = 'assets/roll.wav';
 
 var tom1SFX = new Audio();
-tom1SFX.src = '/assets/tom1.wav';
+tom1SFX.src = 'assets/tom1.wav';
 
 var tom2SFX = new Audio();
-tom2SFX.src = '/assets/tom2.wav';
+tom2SFX.src = 'assets/tom2.wav';
 
 var tomScreamSFX = new Audio();
-tomScreamSFX.src = '/assets/tom-scream.wav';
+tomScreamSFX.src = 'assets/tom-scream.wav';
 
 var crash1SFX = new Audio();
-crash1SFX.src = '/assets/crash1.wav';
+crash1SFX.src = 'assets/crash1.wav';
 
 var crash2SFX = new Audio();
-crash2SFX.src = '/assets/crash2.wav';
+crash2SFX.src = 'assets/crash2.wav';
 
 var rideSFX = new Audio();
-rideSFX.src = '/assets/ride.wav';
+rideSFX.src = 'assets/ride.wav';
 
 var crossStickSFX = new Audio();
-crossStickSFX.src = '/assets/cross-stick.wav';
+crossStickSFX.src = 'assets/cross-stick.wav';
 
 var floorTomSFX = new Audio();
-floorTomSFX.src = '/assets/floor-tom.wav';
+floorTomSFX.src = 'assets/floor-tom.wav';
 
 
 
@@ -167,4 +167,5 @@ function togglePressed(el){
 
 // drumBtns.forEach(drum => {
     
+
 // })
