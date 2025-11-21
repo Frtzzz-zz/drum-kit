@@ -1,7 +1,7 @@
 # Drum Kit 
 Play as if you're playing real drums!
 
-Try a simple drum fill by pressing in this sequence:
+Try a simple drum fill by pressing in this sequence:  
 S > H > E > U > R or Y
 
 Featuring:
@@ -16,4 +16,5 @@ Featuring:
 - JS
 
 pixel art by me (@Fritz)
+
 SFX samples from various sources then edited and mixed on Audacity
