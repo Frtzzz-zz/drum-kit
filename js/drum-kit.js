@@ -115,7 +115,7 @@ document.addEventListener('keydown', (e) => {
         togglePressed(tom2);
         console.log('TOM 2 PRESSED');    
     }
-    if(e.key === 'q' || e.key === 'q'){
+    if(e.key === 'q' || e.key === 'Q'){
         tomScreamSFX.currentTime = 0;
         tomScreamSFX.play();
         togglePressed(tomScream);
@@ -149,7 +149,7 @@ document.addEventListener('keydown', (e) => {
         floorTomSFX.currentTime = 0;
         floorTomSFX.play();
         togglePressed(floorTom);
-        console.log('CROSS-STICK PRESSED');    
+        console.log('FLOOR TOM PRESSED');    
     }
 })
 
@@ -169,3 +169,4 @@ function togglePressed(el){
     
 
 // })
+
