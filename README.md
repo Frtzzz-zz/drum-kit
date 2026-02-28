@@ -17,4 +17,4 @@ Featuring:
 
 pixel art by me (@Fritz)
 
-SFX samples from various sources then edited and mixed on Audacity
+
